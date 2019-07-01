@@ -1,0 +1,4 @@
+{"cate": "category_mdcf_szdy", "sort": "媒体采访", "pages": 0}
+{"cate": "category_lyhd_szdy", "sort": "路演活动", "pages": 0}
+{"cate": "category_dyhd_szdy", "sort": "调研活动", "pages": 0}
+{"cate": "category_glzd_szdy", "sort": "管理制度", "pages": 0}
